@@ -28,10 +28,10 @@ You can then run SQL queries or test the system's functionality in MySQL.
 # Database Schema
 The system consists of several core tables:
 
-# Users: Stores user details, including secure passwords.
-# Trains: Information about the trains including train numbers, routes, and timings.
-# Stations: Details of stations on the railway network.
-# Bookings: Stores user booking details including tickets, journey dates, and payment information.
+ Users: Stores user details, including secure passwords.
+ Trains: Information about the trains including train numbers, routes, and timings.
+ Stations: Details of stations on the railway network.
+ Bookings: Stores user booking details including tickets, journey dates, and payment information.
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for more details.
